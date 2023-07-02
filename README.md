@@ -13,7 +13,8 @@ This is the Sign up page
 
 Contact us page
 
-![image](https://github.com/sarthakc20/Profile-Peak/assets/105372144/ce5d71a4-97c9-4765-bbb5-82813493e8a5)
+![image](https://github.com/sarthakc20/Profile-Peak/assets/105372144/c1d4f3a4-dd2a-4cc8-85ae-e9f89ae2ec86)
+
 
 After logging in the alert 
 
