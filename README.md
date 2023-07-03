@@ -20,7 +20,7 @@ After logging in the alert
 
 ![image](https://github.com/sarthakc20/Profile-Peak/assets/105372144/eedec347-44b3-4a2e-a770-8243e53c894a)
 
-About page which you can access only after signing in
+About page which can be accessed only after signing in
 
 ![image](https://github.com/sarthakc20/Profile-Peak/assets/105372144/e9b788cf-b4af-4d30-b48b-0bc408048cc7)
 
