@@ -1,7 +1,7 @@
 # Profile-Peak
 This is the landing page of this MERN stack project
 
-![image](https://github.com/sarthakc20/Profile-Peak/assets/105372144/a0c77f87-4ac8-4c79-a49e-583fb67fb7e7)
+![image](https://github.com/sarthakc20/Profile-Peak/assets/105372144/a36df224-6abc-40a5-ab76-fedd375b51f4)
 
 This is the Sign in page 
 
